@@ -1,0 +1,31 @@
+.production{
+    &-title{
+        margin-top: 66px;
+    margin-left: 300px;
+    width: 823px;
+    height: 54px;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    text-align: center;
+    color: #FBFAF7;
+    }
+    &-list{
+        .list{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-top: 60px;
+        }
+    }
+    &-text{
+     width: 167px;
+    height: 27px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FBFAF7;
+    margin-bottom: 154px;
+    }
+}

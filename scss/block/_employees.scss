@@ -1,0 +1,34 @@
+.employees {
+    background-color: #F2EFE6;
+    padding: 120px;
+    &-title{
+        margin-top: 114px;
+        .title{
+            margin-left: 350px;
+            width: 739px;
+            height: 108px;
+            font-weight: 600;
+            font-size: 48px;
+            line-height: 54px;
+            text-align: center;
+            color: #163A24;
+        }
+    }
+    &-text{
+        margin-top: 27px;
+    margin-left: 340px;
+    width: 760px;
+    height: 54px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #163A24;
+    }
+    &-image{
+        margin-top: 2px;
+        width: 1180px;
+        height: 335px;
+        margin-left: 130px;
+        }
+}

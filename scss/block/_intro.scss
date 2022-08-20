@@ -1,0 +1,33 @@
+.side-main {
+    background-color: #163A24;
+}
+
+.intro__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.intro{
+    &__title{
+        width: 391px;
+        height: 196px;
+        font-weight: 600;
+        font-size: 48px;
+        line-height: 65px;
+        color: #FBFAF7;
+        }
+    
+       
+        &__text{
+        width: 385px;
+        height: 81px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 27px;
+        color: #FBFAF7;
+         }
+         &__image{
+            width: 738px;
+            height: 580px;
+            }
+}
